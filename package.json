@@ -1,6 +1,6 @@
 {
   "name": "@steelskysoftware/facade-sockets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "steelskysoftware",
   "license": "MIT",
   "type": "module",
@@ -20,8 +20,8 @@
     "facade-sockets": "./bin/facade-sockets.js"
   },
   "dependencies": {
-    "@steelskysoftware/facade-server": "workspace:*",
-    "@steelskysoftware/facade-toolbox": "workspace:*",
+    "@steelskysoftware/facade-server": "^1.0.0",
+    "@steelskysoftware/facade-toolbox": "^1.0.0",
     "socket.io": "^3.1.0",
     "socket.io-client": "^3.1.0"
   }
