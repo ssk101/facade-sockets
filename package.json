@@ -22,7 +22,7 @@
   "dependencies": {
     "@steelskysoftware/facade-server": "^1.0.0",
     "@steelskysoftware/facade-toolbox": "^1.0.0",
-    "socket.io": "^3.1.0",
-    "socket.io-client": "^3.1.0"
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
   }
 }
