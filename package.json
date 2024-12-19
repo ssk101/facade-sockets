@@ -20,8 +20,8 @@
     "facade-sockets": "./bin/facade-sockets.js"
   },
   "dependencies": {
-    "@ssk101/facade-server": "^1.0.0",
-    "@ssk101/facade-toolbox": "^1.0.0",
+    "@ssk101/facade-server": "https://github.com/ssk101/facade-server.git",
+    "@ssk101/facade-toolbox": "https://github.com/ssk101/facade-toolbox.git",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1"
   }
