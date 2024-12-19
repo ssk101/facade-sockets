@@ -1,15 +1,15 @@
 {
-  "name": "@steelskysoftware/facade-sockets",
+  "name": "@ssk101/facade-sockets",
   "version": "1.0.1",
-  "author": "steelskysoftware",
+  "author": "ssk101",
   "license": "MIT",
   "type": "module",
   "exports": "./index.js",
   "module": "index.js",
   "bugs": {
-    "url": "https://github.com/steelskysoftware/facade-sockets/issues"
+    "url": "https://github.com/ssk101/facade-sockets/issues"
   },
-  "homepage": "https://github.com/steelskysoftware/facade-sockets#readme",
+  "homepage": "https://github.com/ssk101/facade-sockets#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
@@ -20,8 +20,8 @@
     "facade-sockets": "./bin/facade-sockets.js"
   },
   "dependencies": {
-    "@steelskysoftware/facade-server": "^1.0.0",
-    "@steelskysoftware/facade-toolbox": "^1.0.0",
+    "@ssk101/facade-server": "^1.0.0",
+    "@ssk101/facade-toolbox": "^1.0.0",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1"
   }
